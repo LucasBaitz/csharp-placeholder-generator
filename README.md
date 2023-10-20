@@ -1,6 +1,6 @@
 # PlaceholderAPI em ASP.NET Core
 
-**PlaceholderAPI** é uma API em ASP.NET Core que permite a geração de imagens e SVGs personalizáveis para uso como espaços reservados em desenvolvimento e design. Você pode personalizar as seguintes propriedades ao criar seus espaços reservados:
+**PlaceholderAPI** é uma API em ASP.NET Core que permite a geração de imagens e SVGs personalizáveis para uso como espaços reservados em desenvolvimento e design.
 ## Tech
 - [C#]
 - [ASP.NET Core]
