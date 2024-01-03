@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using PlaceholderImageAPI.Entities;
+using PlaceholderAPI.Models;
 using PlaceholderImageAPI.Models;
 
 namespace PlaceholderImageAPI.Controllers
